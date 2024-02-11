@@ -1,6 +1,6 @@
 # Clothing Store Sales Analysis
 
-Welcome to the Clothing Store Sales Analysis repository! In this project, we have conducted a thorough analysis of sales data for a clothing store using Microsoft Excel. Below, you'll find a breakdown of our process, including data cleaning, analysis, and insights derived from the data.
+Welcome to the Clothing Store Sales Analysis repository! In this project, I have conducted a thorough analysis of sales data for a clothing store using **Microsoft Excel** and made a Fully **Interactive Dashboard**. Below, you'll find a breakdown of our process, including data cleaning, analysis, and insights derived from the data.
 
 ![Screenshot (95)](https://github.com/Pratham0311Arya/Clothing-Store-Anlysis/assets/143388323/e0c80cfc-e96a-45d7-aab4-e354655c0ecd)
 
